@@ -107,7 +107,6 @@ I love working at the intersection of **software and systems** — from writing 
 
 ## 🚧 Featured Projects
 
-> (Replace these with your actual repos)
 
 ### 🔹 Solar System Simulator 🪐
 **A cross-platform solar system simulator with scientifically grounded N-body physics, real-time 3D visualization, launch trajectory planning, and a modular architecture designed for GPU acceleration.
