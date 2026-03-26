@@ -103,23 +103,19 @@ Flying isn't just a hobby — it's a mindset.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshBaneyCS&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📊 Stats & Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshBaneyCS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBaneyCS&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-olive-theta-35.vercel.app/api?username=JoshBaneyCS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-olive-theta-35.vercel.app/api/top-langs/?username=JoshBaneyCS&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
-> ⚠️ **Stats not loading?** The public `github-readme-stats` instance is sometimes paused/rate-limited.  
-> You can [self-host your own instance](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own-vercel-instance) on Vercel for free in ~2 minutes — just fork the repo and set your `PAT_1` secret.
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats-x694-30eh90g4f-joshbaneycs-projects.vercel.app/?username=JoshBaneyCS&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 
 ---
 
