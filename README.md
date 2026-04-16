@@ -149,9 +149,10 @@ Flying isn't just a hobby — it's a mindset.
 
 ---
 
-### 🔹 Baney Brew 🍺
-**Baney Brew is a next-generation social platform for beer enthusiasts, breweries, and craft beer lovers. Combining advanced flavor profiling, ML-powered recommendations, and real-time social features.**  
-🔗 `https://github.com/baneybrew/Baney-Brew-Public`
+### 🔹 Keg Tapped 🍺
+**Keg Tapped is a next-generation social platform for beer enthusiasts, breweries, and craft beer lovers. Combining advanced flavor profiling, ML-powered recommendations, and real-time social features.**  
+🔗 `https://github.com/kegtapped/`
+💻 `https://kegtapped.com/`
 
 ---
 
